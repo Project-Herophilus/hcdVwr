@@ -521,3 +521,9 @@ project.lock.json
 *.feature.cs
 *.feature.xlsx.*
 *.Specs_*.html
+
+# dotenv environment variables file
+.env
+
+# IntelliJ idea directory exclusion
+/.idea/
